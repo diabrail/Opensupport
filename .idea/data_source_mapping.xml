@@ -2,6 +2,7 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" value="b7aac5bc-eee2-4edb-a940-8771cda26bdb" />
+    <file url="file://$PROJECT_DIR$/.idea/queries/Query_1.sql" value="5311f0e4-379b-4e45-8ba6-b8ee904da891" />
     <file url="file://$PROJECT_DIR$/opensupports/dataticketevent.sql" value="b7aac5bc-eee2-4edb-a940-8771cda26bdb" />
     <file url="file://$PROJECT_DIR$/opensupports/scrippts.sql" value="b7aac5bc-eee2-4edb-a940-8771cda26bdb" />
   </component>
